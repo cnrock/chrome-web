@@ -7,7 +7,7 @@ Requires=tgvnc.service
 [Service]
 User=app
 Type=simple
-ExecStart=/usr/bin/google-chrome-stable --display=:0 --disable-gpu --disable-software-rasterizer --disable-dev-shm-usage --disable-plugins --disable-plugins-discovery --disable-notifications --disable-sync --mute-audio --dns-prefetch-disable --noremote --window-size=1280,1024
+ExecStart=/usr/bin/google-chrome-stable --display=:0 --disable-gpu --disable-software-rasterizer --disable-dev-shm-usage --disable-plugins --disable-plugins-discovery --disable-notifications --disable-sync --mute-audio --dns-prefetch-disable --noremote --window-size=1920,1080
 Restart=always
 
 [Install]
