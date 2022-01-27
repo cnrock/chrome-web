@@ -1,5 +1,5 @@
 [Unit]
-Description=NoVNC Service
+Description=NoVNC Web Service
 Documentation=NoVNC
 After=tgvnc.service chrome.service
 Requires=tgvnc.service chrome.service
