@@ -10,9 +10,12 @@ Refer to the solution given in the following article to run Google Chrome on Doc
   
 Refer to steps given in install.txt file if you want to build your own container. 
 
---MOD 2022.01.26--
+---
+MOD at 2022.01.26 by WanJie
+---
+
 # Chrome version 97.0.4692.99
-Update Chrome  to 97.0.4692.99 Version  by WanJie
+Update Chrome  to 97.0.4692.99 Version 
 # Chinese fonts support 
-Chinese Fonts support by WanJie
+Chinese Fonts support
 
