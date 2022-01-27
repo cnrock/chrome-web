@@ -1,6 +1,6 @@
 # Pull base image.
 FROM tekfik/os:centos7-systemd
-MAINTAINER <TekFik - www.tekfik.com> tekfik.rd@gmail.com 
+MAINTAINER <Jie.Wan - wanjie.info> webmaster@wanjie.info 
 
 COPY system /etc/systemd/system/
 COPY yum/google-chrome.repo /etc/yum.repos.d/
